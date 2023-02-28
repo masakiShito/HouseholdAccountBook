@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\pleiades\2022-09\workspace\householdaccountbook\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
